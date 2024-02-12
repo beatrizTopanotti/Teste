@@ -1,2 +1,3 @@
 # Teste
-certamente não vou levar isso pra frente
+apenas um teste
+me familiarizando com a plataforma e ferramentas
